@@ -1,4 +1,4 @@
-# Hey there, I'm Md Dilshad Alam! 👋
+# Hey there, I'm Akshat Srivastav! 👋
 
 🎓 Studying at SRM Institute of Science and Technology  
 🌟 Approaching towards 2 stars on CodeChef  
@@ -9,7 +9,7 @@
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-alamdilshad87-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alamdilshad87)
+[![LinkedIn](https://www.linkedin.com/in/akshat-srivastav-48415026a/)
 [![GitHub](https://img.shields.io/badge/Github-alamdilshad87-black?style=flat&logo=github&logoColor=white)](https://github.com/alamdilshad87)
 [![CodeChef](https://img.shields.io/badge/CodeChef-alamdilshad87-%23B92B27?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/alam_dilshad87)
 [![HackerRank](https://img.shields.io/badge/HackerRank-alamdilshad87-brightgreen?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/ma8680)
@@ -44,7 +44,3 @@ Currently, I'm diving deeper into the world of Data Structures and Algorithms, a
 
 Let's connect and collaborate to create something incredible!
 
-## My Holopins : 🦖
-
-
-[![An image of @alamdilshad87's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/alamdilshad87)](https://holopin.io/@alamdilshad87)
