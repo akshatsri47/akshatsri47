@@ -1,46 +1,20 @@
-# Hey there, I'm Akshat Srivastav! 👋
-
-🎓 Studying at SRM Institute of Science and Technology  
-🌟 Approaching towards 2 stars on CodeChef  
-📚 Learning DSA and sharpening problem-solving skills  
-🚀 Proficient in C, C++, Python, Java, and MySQL  
-💻 Exploring the realms of Web Development and App Development  
-📷 Passionate about Photography and upskilling in Graphic Designing  
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://www.linkedin.com/in/akshat-srivastav-48415026a/)
-[![GitHub](https://img.shields.io/badge/Github-alamdilshad87-black?style=flat&logo=github&logoColor=white)](https://github.com/alamdilshad87)
-[![CodeChef](https://img.shields.io/badge/CodeChef-alamdilshad87-%23B92B27?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/alam_dilshad87)
-[![HackerRank](https://img.shields.io/badge/HackerRank-alamdilshad87-brightgreen?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/ma8680)
-[![LeetCode Badge](https://img.shields.io/badge/LeetCode-alamdilshad87-orange?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/alam_dilshad87)
+# 💫 About Me:
+ i am currently learning about web developmetns and DSA
 
 
-## 🚀 Skills & Interests
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akshat-srivastav-48415026a/) 
 
-- 📊 Problem Solving in Data Structures and Algorithms
-- 💻 Competent in C, C++, Python, Java, and MySQL
-- 🌐 Exploring the World of Web and App Development
-- 📸 Capturing Moments Through Photography
-- 🎨 Unleashing Creativity in Graphic Design
-  
-## 🚀 Goals and Ambitions
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=akshatsri47&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=akshatsri47&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=akshatsri47&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔭 I'm excited to build a collection of impactful projects that solve real-world problems.
-- 🌟 Planning to achieve a 2-star rating on CodeChef by consistently solving coding challenges.
-- 🌍 Dreaming of contributing to open-source projects that make a difference.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=akshatsri47&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 📂 Projects and Contributions
-
-- 🛠 I'm gradually building my project portfolio, starting from simple coding challenges to ambitious endeavors.
-- ✍ Documenting my projects and learnings through well-crafted READMEs.
-- 🤝 Collaborating with others and open to mentorship opportunities.
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=alamdilshad87&show_icons=true&theme=transparent)
-
-## 🌱 Current Focus
-
-Currently, I'm diving deeper into the world of Data Structures and Algorithms, aiming to enhance my problem-solving skills and achieve a 2-star rating on CodeChef. Simultaneously, I'm also crafting my skills in web and app development to turn my innovative ideas into reality. When I'm not coding, you can find me with a camera, capturing the beauty around, or immersed in creative graphic design projects.
-
-Let's connect and collaborate to create something incredible!
+---
+[![](https://visitcount.itsvg.in/api?id=akshatsri47&icon=0&color=0)](https://visitcount.itsvg.in)
 
